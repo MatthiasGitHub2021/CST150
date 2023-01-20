@@ -1,0 +1,12 @@
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\bin\Debug\Milestone 2.exe.config
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\bin\Debug\Milestone 2.exe
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\bin\Debug\Milestone 2.pdb
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\obj\Debug\Milestone 2.csproj.AssemblyReference.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\obj\Debug\Milestone 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\obj\Debug\Milestone_2.InventoryListForm.resources
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\obj\Debug\Milestone_2.Properties.Resources.resources
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\obj\Debug\Milestone 2.csproj.GenerateResource.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\obj\Debug\Milestone 2.csproj.CoreCompileInputs.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\obj\Debug\Milestone 2.exe
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\obj\Debug\Milestone 2.pdb
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 2\obj\Debug\Milestone_2.AddItemForm.resources
