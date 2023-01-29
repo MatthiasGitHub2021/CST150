@@ -1,0 +1,11 @@
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\obj\Debug\Activity 10.csproj.AssemblyReference.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\obj\Debug\Activity 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\obj\Debug\Activity_10.Form1.resources
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\obj\Debug\Activity_10.Properties.Resources.resources
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\obj\Debug\Activity 10.csproj.GenerateResource.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\obj\Debug\Activity 10.csproj.CoreCompileInputs.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\bin\Debug\Activity 10.exe.config
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\bin\Debug\Activity 10.exe
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\bin\Debug\Activity 10.pdb
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\obj\Debug\Activity 10.exe
+C:\Users\matth\WorkspaceCST-150 C Sharp\Activity 10\obj\Debug\Activity 10.pdb
