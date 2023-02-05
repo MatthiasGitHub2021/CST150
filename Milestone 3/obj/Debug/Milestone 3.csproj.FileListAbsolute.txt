@@ -1,0 +1,11 @@
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\bin\Debug\Milestone 3.exe.config
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\bin\Debug\Milestone 3.exe
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\bin\Debug\Milestone 3.pdb
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\obj\Debug\Milestone 3.csproj.AssemblyReference.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\obj\Debug\Milestone 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\obj\Debug\Milestone_3.Form1.resources
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\obj\Debug\Milestone_3.Properties.Resources.resources
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\obj\Debug\Milestone 3.csproj.GenerateResource.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\obj\Debug\Milestone 3.csproj.CoreCompileInputs.cache
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\obj\Debug\Milestone 3.exe
+C:\Users\matth\WorkspaceCST-150 C Sharp\Milestone 3\obj\Debug\Milestone 3.pdb
