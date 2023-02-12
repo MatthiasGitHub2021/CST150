@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y4FPqon5oC8lkLrQU2lOt4hKGHFAvVYDYaCV1xS3vzz+b5jTsBtqfi6Gv3n8lNwdjcwKMG3mS+YsAoefje+moA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matth\\WorkspaceCST-150 C Sharp\\Milestone 4\\Milestone 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.12\\microsoft.netcore.app.host.win-x86.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
